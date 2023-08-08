@@ -1,4 +1,4 @@
-- 👋 Hi, I’m William
+- 👋 Hi, I’m William. I have 6 years of experience as a Network Engineer.
 - 👀 I’m interested in displaying the skills I have learned while studying sd-wan, aws, and network automation 
 - 🌱 I’m currently learning Python Automation
 - 💞️ I’m looking to collaborate on potential sample labs.
